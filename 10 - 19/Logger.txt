@@ -1,0 +1,2 @@
+INFO:Migration started as 2020/05/25 19:01:48
+INFO:Migration finished as 2020/05/25 19:01:48
